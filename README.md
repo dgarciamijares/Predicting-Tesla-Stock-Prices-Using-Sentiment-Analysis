@@ -1,4 +1,6 @@
-# Project Report: Predicting Tesla Stock Prices Using Sentiment Analysis
+# Predicting Tesla Stock Prices Using Sentiment Analysis
+
+[![YouTube Video](https://img.youtube.com/vi/GIHftI4H96E/0.jpg)](https://www.youtube.com/watch?v=GIHftI4H96E)
 
 ## Overview
 This project aims to predict Tesla's stock prices by leveraging sentiment analysis from social media, specifically focusing on tweets mentioning Tesla and Elon Musk. By analyzing the sentiment of these tweets, alongside traditional financial indicators, we aim to create a robust predictive model for Tesla's stock prices.
